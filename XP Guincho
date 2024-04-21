@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XP Guincho</title>
+    <link rel="stylesheet" href="xp.css">
+</head>
+<body>
+    <!-- Cabeçalho da página: Se encontrará a logo, contato e ETC-->
+    <nav> <img src="" alt="">
+        <a href="Contato"></a>
+        <a href="História"></a>
+    </nav>
+    <!-- Corpo da página: Dará algumas informações sobre a empresa-->
+    <main>
+        <h1> XP Guincho</h1>
+        <h3 id="1"> Sobre Nós:</h3>
+        <p>Somos uma empresa especializada em guincho e transporte de veículos, máquinas e outros tipos de cargas.</p><br>
+        <p>Está com problemas para se locomover com seu veículo? Entre em contato conosco! <a href="Contato">Clique aqui</a></p>
+    </main>
+    
+</body>
+</html>
